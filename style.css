@@ -1,0 +1,24 @@
+:root{
+  width: 100%;
+  margin-top: 30%;
+}
+#name {
+  font-family: "Nanum Gothic Coding", monospace;
+
+  text-align: center;
+  font-size: 150%;
+}
+#social_media_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
+
+
+img{
+  display: block;
+  margin: 0px auto;
+  width: 85%;
+  height: auto;
+}
